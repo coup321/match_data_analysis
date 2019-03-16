@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 **/*.ipynb_checkpoints/
 Folder/.ipynb_checkpoints/*.ipynb
+/data/raw
+/data/raw/*.pdf
