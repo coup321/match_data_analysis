@@ -1,6 +1,6 @@
 # Introduction
 
-This notebook was created to analyze the match data from The Larner College of Medicine at The University of Vermont for the years 2011, 2012, 2014, 2015, 2016, 2017, 2019, and 2019. These data are publically available on the UVM College of Medicine website (http://www.med.uvm.edu/studentservices/careerplanning/matchlists) and a cleaned dataset may be found in the data folder.
+This notebook was created to analyze the match data from The Larner College of Medicine at The University of Vermont for the years 2011, 2012, 2014, 2015, 2016, 2017, 2019, and 2019. These data are publically available on the UVM College of Medicine website (http://www.med.uvm.edu/studentservices/careerplanning/matchlists) and a cleaned dataset without identifiers may be found in the data folder.
 
 Briefly, 'The Match' is the final outcome of a proprietary algorithm owned and operated by the National Resident Matching Program. This algorithm integrates student rank lists and residency program rank lists into an optimal outcome and designates each student to a program.
 
