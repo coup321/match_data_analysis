@@ -1,0 +1,192 @@
+year,specialty,num_students
+2019,Anesthesiology,4
+2019,Child Neurology,1
+2019,Dermatology,2
+2019,Diagnostic Radiology,5
+2019,Emergency Medicine,12
+2019,Family Medicine,13
+2019,Internal Medicine,15
+2019,Medicine/Emergency Med,1
+2019,Neurology,3
+2019,Neurosurgery,1
+2019,Obstetrics & Gynecology,6
+2019,Ophthalmology,1
+2019,Orthopaedic Surgery,4
+2019,Otolaryngology,1
+2019,Pathology,5
+2019,Pediatrics,11
+2019,Peds/Psych/Child Psych,1
+2019,Physical Med & Rehabilitation,1
+2019,Plastic Surgery,1
+2019,Psychiatry,6
+2019,Radiation Oncology,1
+2019,Thoracic Surgery,1
+2019,Urology,2
+2019,Preliminary Medicine,9
+2019,Preliminary Surgery,3
+2019,Transitional Year,2
+2019,Military,2
+2018,Anesthesiology,9
+2018,Dermatology,1
+2018,Diagnostic Radiology,4
+2018,Emergency Medicine,7
+2018,EM/Anesthesiology,1
+2018,Family Medicine,17
+2018,General Surgery,11
+2018,Internal Medicine,21
+2018,Neurology,1
+2018,Neurosurgery,2
+2018,Obstetrics & Gynecology,4
+2018,Ophthalmology,1
+2018,Orthopaedic Surgery,2
+2018,Pathology,3
+2018,Pediatrics,14
+2018,Peds/Psych/Child Psych,1
+2018,Psychiatry,5
+2018,Urology,3
+2018,Preliminary Medicine,6
+2018,Preliminary Surgery,5
+2018,Transitional Year,3
+2018,Military,1
+2017,Anesthesiology,9
+2017,Child Neurology,1
+2017,Dermatology,3
+2017,Diagnostic Radiology,3
+2017,Emergency Medicine,9
+2017,Family Medicine,11
+2017,General Surgery,9
+2017,Gen Surgery/Research,1
+2017,Internal Medicine,14
+2017,Medicine/Emergency Medicine,1
+2017,Neurology,1
+2017,Obstetrics & Gynecology,10
+2017,Ophthalmology,2
+2017,Orthopaedic Surgery,5
+2017,Otolaryngology,1
+2017,Pathology,4
+2017,Pediatrics,11
+2017,Peds/Psych/Child Psych,1
+2017,Physical Med & Rehabilitation,2
+2017,Plastic Surgery,2
+2017,Psychiatry,2
+2017,Radiation Oncology,1
+2017,Urology,2
+2017,Preliminary Medicine,11
+2017,Preliminary Pediatrics,1
+2017,Preliminary Surgery,7
+2017,Transitional Year,1
+2016,Anesthesiology,7
+2016,Combined Adult/Child Psychiatry,1
+2016,Dermatology,3
+2016,Diagnostic Radiology,3
+2016,Emergency Medicine,13
+2016,Family Medicine,8
+2016,General Surgery,2
+2016,Internal Medicine,16
+2016,Neurological Surgery,1
+2016,Neurology,2
+2016,Obstetrics & Gynecology,10
+2016,Ophthalmology,1
+2016,Orthopaedic Surgery,2
+2016,Otolaryngology,2
+2016,Pathology,1
+2016,Pediatrics,14
+2016,Peds/Adult/Child Psychiatry,1
+2016,Plastic Surgery,1
+2016,Primary Medicine,4
+2016,Psychiatry,7
+2016,Radiation Oncology,2
+2016,Urology,1
+2016,Preliminary Medicine,7
+2016,Preliminary Surgery,3
+2016,Transitional Year,7
+2015,Anesthesiology,5
+2015,Dermatology,3
+2015,Diagnostic Radiology,1
+2015,Emergency Medicine,13
+2015,Family Medicine,17
+2015,General Surgery,13
+2015,Internal Medicine,15
+2015,Med/EM,1
+2015,Med/Peds,1
+2015,Primary Med/Social Int Med,1
+2015,Neurodevel Disabilities,1
+2015,Neurological Surgery,1
+2015,Neurology,3
+2015,Obstetrics & Gynecology,5
+2015,Orthopaedic Surgery,5
+2015,Otolaryngology,1
+2015,Pathology,4
+2015,Pediatrics,12
+2015,Primary Peds/Comm Health,1
+2015,Physical Med & Rehab,2
+2015,Psychiatry,3
+2015,Urology,1
+2015,Preliminary Medicine,6
+2015,Prelim Peds/Child Neuro,1
+2015,Preliminary Surgery,1
+2015,Transitional Year,4
+2014,Anesthesiology,8
+2014,Child Neurology,1
+2014,Dermatology,1
+2014,Diagnostic Radiology,2
+2014,Emergency Medicine,14
+2014,Family Medicine,6
+2014,General Surgery,9
+2014,Internal Medicine,20
+2014,Neurological Surgery,1
+2014,Neurology,3
+2014,Obstetrics & Gynecology,4
+2014,Ophthalmology,1
+2014,Orthopaedic Surgery,2
+2014,Otolaryngology,1
+2014,Pathology,4
+2014,Pediatrics,16
+2014,Peds/Psych/Child Psych,1
+2014,Psychiatry,6
+2014,Psychiatry/Child & Adlsnt,1
+2014,Radiation Oncology,2
+2014,Urology,1
+2014,Vascular Surgery,2
+2012,Anesthesiology,9
+2012,Child Neurology,2
+2012,Dermatology,2
+2012,Diagnostic Radiology,5
+2012,Emergency Medicine,11
+2012,Family Medicine,14
+2012,General Surgery,7
+2012,Internal Medicine,17
+2012,Medicine-Pediatrics,1
+2012,Neurological Surgery,2
+2012,Obstetrics & Gynecology,8
+2012,Ophthalmology,3
+2012,Orthopaedic Surgery,2
+2012,Pathology,3
+2012,Pediatrics,17
+2012,Physical Med & Rehab,2
+2012,Plastic Surgery,1
+2012,Psychiatry,1
+2012,Urology,3
+2012,Medicine-Preliminary,8
+2012,Surgery-Preliminary,5
+2012,Transitional Year,5
+2011,Anesthesiology,7
+2011,Diagnostic Radiology,4
+2011,Emergency Medicine,18
+2011,Family Medicine,5
+2011,General Surgery,11
+2011,Internal Medicine,14
+2011,Medicine-Pediatrics,1
+2011,Neurological Surgery,2
+2011,Obstetrics & Gynecology,5
+2011,Ophthalmology,2
+2011,Orthopaedic Surgery,4
+2011,Otolaryngology,3
+2011,Pathology,6
+2011,Pediatrics,14
+2011,Plastic Surgery,1
+2011,Psychiatry,8
+2011,Urology,1
+2011,Medicine-Preliminary,3
+2011,Surgery -Preliminary,5
+2011,Transitional Year,4
