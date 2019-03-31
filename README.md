@@ -8,7 +8,7 @@ In March, medical students across the United States discover where they will be 
 
 The purpose of this notebook is to analyze class data and their match outcomes.
 
-### Notebooks will run without adjustement of the repsoitory for the UVM match data.
+### Notebooks will run without adjustement of the repository for the UVM match data.
 
 ### Instructions to use this notebook for your own match data:
 
